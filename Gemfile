@@ -71,4 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
+gem 'tzinfo-date', platforms: [:mingw,
+  
 gem 'pry-rails'
+gem 'devise'
